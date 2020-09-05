@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="17dp"
+    android:height="17dp"
+    android:tint="@color/colorVideoPlayerCBIcon"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="m0,393.545h64.251v98.91l109.227,-98.91h193.958v-270h-367.436zM272.063,305.545h-176.69v-30h176.69zM63.247,211.545h240.941v30h-240.941z" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="m144.565,19.545v74h252.988v242.18l58.227,52.73v-98.91h56.22v-270z" />
+</vector>

@@ -1,0 +1,237 @@
+<resources>
+    <string name="app_name">
+        Canal Formula 1
+    </string>
+
+
+    <!-- MainActivity -->
+    <string name="channel_name">
+        FORMULA 1
+    </string>
+    <string name="channel_desc">
+        Mantenha-se atualizado com as últimas notícias e
+        conteúdos sobre a Fórmula 1
+    </string>
+    <string name="youtube_content_icon_content_desc">
+        Ícone do YouTube.
+    </string>
+    <string name="channel_thumb_content_desc">
+        Thumb do canal YouTube Formula 1.
+    </string>
+    <string name="channel_toast_alert">
+        É preciso ter o aplicativo do YouTube instalado
+        para acessar o canal da Formula 1.
+    </string>
+
+
+    <!-- Menu -->
+    <string name="item_menu_last_video">
+        Vídeo
+    </string>
+    <string name="item_menu_play_lists">
+        PlayLists
+    </string>
+    <string name="item_menu_social_networks">
+        Redes
+    </string>
+    <string name="item_menu_circuits">
+        Circuitos
+    </string>
+    <string name="item_menu_partners">
+        Parceiros
+    </string>
+    <string name="item_menu_store">
+        Loja
+    </string>
+
+
+    <!-- LastVideoFragment -->
+    <string name="last_video_content_title">
+        Assista agora
+    </string>
+    <string name="last_video_play_content_desc">
+        Ícone de play do vídeo.
+    </string>
+    <string name="volume_icon_content_desc">
+        Ícone de controle volume.
+    </string>
+    <string name="head_phones_icon_content_desc">
+        Ícone de fones de ouvido.
+    </string>
+    <string name="video_resolution_icon_content_desc">
+        Ícone de controle de resolução (HD).
+    </string>
+    <string name="like_icon_content_desc">
+        Ícone de like, gostei do conteúdo.
+    </string>
+    <string name="touch_to_watch">
+        Toque para assistir
+    </string>
+    <string name="leave_a_comment">
+        Deixe seu comentário
+    </string>
+    <string name="last_video_toast_alert">
+        É preciso ou o aplicativo do YouTube ou um navegador
+        Web para que o vídeo \"%s\" comece.
+    </string>
+
+
+
+    <!-- SocialNetworksFragment -->
+    <string name="social_networks_content_title">
+        Acompanhe a Formula 1 em todas as redes
+    </string>
+    <string name="social_network_toast_alert">
+        É preciso ao menos um aplicativo de navegador Web
+        para você poder acessar a rede \"%s\" do canal.
+    </string>
+
+
+    <!-- PlayListsFragment -->
+    <string name="playlists_content_title">
+        PlayLists
+    </string>
+    <string name="playlist_toast_alert">
+        É preciso ou o aplicativo do YouTube ou um navegador
+        Web para que a PlayList \"%s\" seja acessada.
+    </string>
+    <string name="no_playlists_yet">
+        Nenhuma PlayList disponível no canal!
+    </string>
+
+
+    <!-- CircuitsFragment -->
+    <string name="circuits_content_title">
+        Circuitos
+    </string>
+    <string name="circuits_desc">
+        Toque no circuito para ter acesso a ele com
+        realidade de mapa (incluindo Street View).
+    </string>
+    <string name="circuits_toast_alert">
+        É preciso o aplicativo do \"%s\" para ter uma
+        realidade física do circuito \"%s\".
+    </string>
+
+    <!-- Circuitos -->
+    <string name="grand_prix_austria_circuit_name">
+        Circuito Red Bull Ring (Áustria)
+    </string>
+    <string name="grand_prix_austria_circuit_km_length">
+        Percurso: 4.318 km
+    </string>
+    <string name="grand_prix_austria_circuit_laps">
+        Voltas: 71
+    </string>
+
+    <string name="grand_prix_hungary_circuit_name">
+        Circuito Hungaroring (Hungria)
+    </string>
+    <string name="grand_prix_hungary_circuit_km_length">
+        Percurso: 4.381 km
+    </string>
+    <string name="grand_prix_hungary_circuit_laps">
+        Voltas: 70
+    </string>
+
+    <string name="grand_prix_belgium_circuit_name">
+        Circuito Spa-Francorchamps (Bélgica)
+    </string>
+    <string name="grand_prix_belgium_circuit_km_length">
+        Percurso: 7.004 km
+    </string>
+    <string name="grand_prix_belgium_circuit_laps">
+        Voltas: 44
+    </string>
+
+    <string name="grand_prix_italy_circuit_name">
+        Circuito de Monza (Itália)
+    </string>
+    <string name="grand_prix_italy_circuit_km_length">
+        Percurso: 5.793 km
+    </string>
+    <string name="grand_prix_italy_circuit_laps">
+        Voltas: 53
+    </string>
+
+
+    <!-- PartnersFragment -->
+    <string name="partners_content_title">
+        Nossos parceiros
+    </string>
+    <string name="partners_toast_alert">
+        É preciso ao menos um navegador Web para abrir a
+        página do parceiro F1 \"%s\".
+    </string>
+
+    <string name="partner_rolex">
+        Rolex - Os relógios rolex são feitos com atenção
+        diferente dos detalhes.
+    </string>
+    <string name="partner_dhl">
+        DHL - Entregamos com velocidade!
+    </string>
+    <string name="partner_aramco">
+        Saudi Aramco - Onde a energia é oportunidade.
+    </string>
+    <string name="partner_pirelli">
+        Pirelli - Uma empresa global de pneus de alto
+        valor.
+    </string>
+    <string name="partner_emirates">
+        Emirates Airlines - Levando você a mais de 80
+        destinos.
+    </string>
+    <string name="partner_heineken">
+        Heineken - Abra seu mundo.
+    </string>
+    <string name="partner_aws">
+        Amazon Web Services (AWS) - Serviços de computação
+        em nuvem.
+    </string>
+    <string name="partner_expo_2020">
+        Expo 2020 Dubai Uae
+    </string>
+    <string name="partner_amg">
+        AMG - Desempenho de condução.
+    </string>
+    <string name="partner_caterpillar">
+        CAT - Construir um mundo melhor.
+    </string>
+    <string name="partner_188_bet">
+        188 Bet - 100% de bônus em seu primeiro depósito.
+    </string>
+    <string name="partner_citibank">
+        CitiBank - Simplificar a experiência do cliente,
+        por meio da tecnologia.
+    </string>
+    <string name="partner_petronas">
+        Petronas - Fornecendo energia ao mundo com energia
+        mais limpa.
+    </string>
+
+
+    <!-- StoreFragment -->
+    <string name="store_content_title">
+        Loja (10% de desconto)
+    </string>
+    <string name="store_desc">
+        Acesse nossa loja agora e tenha até 10% de
+        desconto na primeira compra.
+    </string>
+    <string name="store_toast_alert">
+        É preciso o aplicativo navegador Web para
+        poder acessar a loja.
+    </string>
+
+
+    <!-- UtilNotification -->
+    <string name="notification_verbose_name">
+        🎬 Vídeo novo no canal
+    </string>
+    <string name="notification_verbose_description">
+        Notificação de novos vídeos do canal YouTube
+        Formula 1.
+    </string>
+</resources>
+

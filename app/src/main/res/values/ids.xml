@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="last_video" />
+    <item type="id" name="play_lists" />
+    <item type="id" name="social_networks" />
+    <item type="id" name="circuits" />
+    <item type="id" name="partners" />
+    <item type="id" name="store" />
+</resources>
