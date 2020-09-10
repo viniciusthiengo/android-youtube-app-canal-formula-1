@@ -114,6 +114,26 @@
     </string>
 
     <!-- Circuitos -->
+    <string name="grand_prix_spain_circuit_name">
+        Circuito de Barcelona (Espanha)
+    </string>
+    <string name="grand_prix_spain_circuit_km_length">
+        Percurso: 4.655 km
+    </string>
+    <string name="grand_prix_spain_circuit_laps">
+        Voltas: 64
+    </string>
+
+    <string name="grand_prix_british_circuit_name">
+        Circuito de Silverstone (Inglaterra)
+    </string>
+    <string name="grand_prix_british_circuit_km_length">
+        Percurso: 5.891 km
+    </string>
+    <string name="grand_prix_british_circuit_laps">
+        Voltas: 52
+    </string>
+
     <string name="grand_prix_austria_circuit_name">
         Circuito Red Bull Ring (Áustria)
     </string>
@@ -152,6 +172,96 @@
     </string>
     <string name="grand_prix_italy_circuit_laps">
         Voltas: 53
+    </string>
+
+    <string name="grand_prix_tuscan_circuit_name">
+        Circuito Internacional de Mugello (Itália)
+    </string>
+    <string name="grand_prix_tuscan_circuit_km_length">
+        Percurso: 5.245 km
+    </string>
+    <string name="grand_prix_tuscan_circuit_laps">
+        Voltas: 59
+    </string>
+
+    <string name="grand_prix_russian_circuit_name">
+        Circuito de Sochi (Rússia)
+    </string>
+    <string name="grand_prix_russian_circuit_km_length">
+        Percurso: 5.848 km
+    </string>
+    <string name="grand_prix_russian_circuit_laps">
+        Voltas: 53
+    </string>
+
+    <string name="grand_prix_germany_circuit_name">
+        Circuito de Nurburgring (Alemanha)
+    </string>
+    <string name="grand_prix_germany_circuit_km_length">
+        Percurso: 5.148 km
+    </string>
+    <string name="grand_prix_germany_circuit_laps">
+        Voltas: 60
+    </string>
+
+    <string name="grand_prix_portugal_circuit_name">
+        Circuito Internacional do Algarve (Portugal)
+    </string>
+    <string name="grand_prix_portugal_circuit_km_length">
+        Percurso: 4.684 km
+    </string>
+    <string name="grand_prix_portugal_circuit_laps">
+        Voltas: 66
+    </string>
+
+    <string name="grand_prix_emilia_romagna_circuit_name">
+        Circuito Enzo e Dino Ferrari (Itália)
+    </string>
+    <string name="grand_prix_emilia_romagna_circuit_km_length">
+        Percurso: 4.959 km
+    </string>
+    <string name="grand_prix_emilia_romagna_circuit_laps">
+        Voltas: 63
+    </string>
+
+    <string name="grand_prix_turkey_circuit_name">
+        Circuito Intercity Istanbul Park (Turquia)
+    </string>
+    <string name="grand_prix_turkey_circuit_km_length">
+        Percurso: 5.338 km
+    </string>
+    <string name="grand_prix_turkey_circuit_laps">
+        Voltas: 58
+    </string>
+
+    <string name="grand_prix_bahrain_circuit_name">
+        Circuito Internacional em Sakhir (Bahrain)
+    </string>
+    <string name="grand_prix_bahrain_circuit_km_length">
+        Percurso: 5.412 km
+    </string>
+    <string name="grand_prix_bahrain_circuit_laps">
+        Voltas: 57
+    </string>
+
+    <string name="grand_prix_bahrain_rolex_circuit_name">
+        Circuito Internacional em Sakhir - Rolex (Bahrain)
+    </string>
+    <string name="grand_prix_bahrain_rolex_circuit_km_length">
+        Percurso: 3.543 km
+    </string>
+    <string name="grand_prix_bahrain_rolex_circuit_laps">
+        Voltas: 87
+    </string>
+
+    <string name="grand_prix_abu_dhabi_circuit_name">
+        Circuito Yas Marina (Abu Dhabi)
+    </string>
+    <string name="grand_prix_abu_dhabi_circuit_km_length">
+        Percurso: 5.554 km
+    </string>
+    <string name="grand_prix_abu_dhabi_circuit_laps">
+        Voltas: 55
     </string>
 
 
