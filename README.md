@@ -21,7 +21,7 @@ Todo esse passo a passo você consegue em:
 
 - [Como Melhorar a Experiência do Usuário Utilizando API de Mapa](https://www.thiengo.com.br/como-melhorar-a-experiencia-do-usuario-utilizando-api-de-mapa). 
 
-<img src="https://www.thiengo.com.br/img/post/normal/u08fkk4vqfhfm6rderer500i80538a34a2a4759b17892571c14ddc6679.gif" width="240" alt="Animação do app android YouTube com a abertura de um circuito da Formula 1">
+<img src="https://www.thiengo.com.br/img/post/normal/u08fkk4vqfhfm6rderer500i80538a34a2a4759b17892571c14ddc6679.gif" width="240" alt="Animação do app android YouTube com a abertura de um circuito da Formula 1" style="border: 1px solid #efefef; border-radius: 6px;">
 
 ### Projeto framework Android (original)
 
