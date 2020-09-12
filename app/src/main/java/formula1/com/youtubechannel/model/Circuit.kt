@@ -14,7 +14,7 @@ import android.net.Uri
  * @property name nome do circuito.
  * @property kmLength tamanho, km, do circuito.
  * @property laps número de voltas no circuito.
- * @property webUri maps URI API para abrir o mapa
+ * @property appUri maps URI API para abrir o mapa
  * ou o StreetView.
  * @property logo imagem do circuito.
  * @constructor cria um objeto completo do tipo
@@ -25,7 +25,7 @@ class Circuit(
     val name: String,
     val kmLength: String,
     val laps: String,
-    private val webUri: String,
+    private val appUri: String,
     private val logo: Int ) : ListItem {
 
     override fun getMainText()
@@ -37,8 +37,8 @@ class Circuit(
     override fun getSecondAuxText( resource: Resources )
         = laps
 
-    override fun getWebUri()
-        = Uri.parse( webUri )
+    override fun getAppUri()
+        = Uri.parse( appUri )
 
     override fun getIcon()
         = logo

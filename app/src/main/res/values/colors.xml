@@ -39,7 +39,7 @@
             <color name="colorListItemStroke">#E20600</color>
             <color name="colorListItemText">#FFFFFF</color>
             <color name="colorListItemLinealIcon">#940000</color>
-            <color name="colorListItemNoDataIcon">#FFFFFF</color>
+            <color name="colorListItemNoDataIcon">#940000</color>
 
 
     <!-- Bottom Menu -->

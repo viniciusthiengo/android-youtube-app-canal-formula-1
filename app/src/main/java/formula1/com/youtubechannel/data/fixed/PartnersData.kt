@@ -77,7 +77,9 @@ abstract class PartnersData {
                     logo = R.drawable.ic_logo_amg
                 ),
                 Partner(
-                    name = res.getString( R.string.partner_caterpillar ),
+                    name = res.getString(
+                        R.string.partner_caterpillar
+                    ),
                     webPage = "https://www.caterpillar.com/",
                     logo = R.drawable.ic_logo_caterpillar
                 ),
@@ -88,7 +90,8 @@ abstract class PartnersData {
                 ),
                 Partner(
                     name = res.getString( R.string.partner_citibank ),
-                    webPage = "https://corporateportal.brazil.citibank.com/index.htm",
+                    webPage = "https://corporateportal.brazil.citibank" +
+                            ".com/index.htm",
                     logo = R.drawable.ic_logo_citibank
                 ),
                 Partner(
